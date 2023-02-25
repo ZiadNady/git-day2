@@ -50,3 +50,4 @@ git add .
 
 ##hidden file
 `touch .gitignore`
+then add the file name in it
